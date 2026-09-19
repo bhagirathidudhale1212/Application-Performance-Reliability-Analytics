@@ -196,7 +196,7 @@ Application_Performance_Reliability_Analytics
 │   └── error_rate_by_service.png
 │
 └── README.md
-```text
+```
 
 ## End-to-End Workflow
 ```text
@@ -215,7 +215,7 @@ Python Visualizations
 Power BI Interactive Dashboards
         ↓
 Application Performance & Reliability Insights
-```text
+```
 ## Outcome
 
 This project demonstrates an end-to-end analytics workflow using **Python, SQL, Excel, and Power BI**.

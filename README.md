@@ -35,10 +35,10 @@ This project analyzes application logs to help monitor these areas and support d
 
 | Technology           | Purpose                                  |
 | -------------------- | ---------------------------------------- |
-|   Python             | Data analysis and visualization          |
-|   SQL / PostgreSQL   | Data storage and analytical queries      |
-|   Excel              | Data analysis and PivotTables            |
-|   Power BI           | Interactive dashboards and KPI reporting |
+| **Python**           | Data analysis and visualization          |
+| **SQL / PostgreSQL** | Data storage and analytical queries      |
+| **Excel**            | Data analysis and PivotTables            |
+| **Power BI**         | Interactive dashboards and KPI reporting |
 
 ## Dataset
 
@@ -171,7 +171,7 @@ The analysis helps identify:
 * Services requiring closer performance monitoring
 
 ## Project Structure
-'''text
+```text
 Application_Performance_Reliability_Analytics
 │
 ├── data
@@ -196,10 +196,10 @@ Application_Performance_Reliability_Analytics
 │   └── error_rate_by_service.png
 │
 └── README.md
-'''text
+```text
 
 ## End-to-End Workflow
-'''text
+```text
 Raw Application Logs
         ↓
 Data Quality Validation
@@ -215,7 +215,7 @@ Python Visualizations
 Power BI Interactive Dashboards
         ↓
 Application Performance & Reliability Insights
-'''text
+```text
 ## Outcome
 
 This project demonstrates an end-to-end analytics workflow using **Python, SQL, Excel, and Power BI**.
